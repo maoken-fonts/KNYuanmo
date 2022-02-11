@@ -14,11 +14,15 @@
 
 字体特点
 在尽可能保持字形辨识度的情况下，笔画尽可能的粗，字尽可能占满一个方格
+![explain01](https://user-images.githubusercontent.com/59170247/153529079-9cfb22f8-ea0d-4b05-bba3-0cf2163891d0.png)
 
 笔画过多的字某些笔画做特殊粗细对比处理
+![explain02](https://user-images.githubusercontent.com/59170247/153529085-3f50be75-c71c-4759-ae44-b6c75b142b24.png)
 
 字框偏扁，重心偏低
+![explain03](https://user-images.githubusercontent.com/59170247/153529094-f516646f-7eaf-4ff0-89d3-311690b6530d.png)
 
 
 包含了西文、数字、符号、日文平假名、日文片假名、注音符号、汉语拼音等
-
+![explain04](https://user-images.githubusercontent.com/59170247/153529129-ed03f3d8-1bd9-4a00-8936-382cd33f37e9.png)
+![explain05](https://user-images.githubusercontent.com/59170247/153529134-73abc388-80ef-4584-91c8-1168a9360445.png)
